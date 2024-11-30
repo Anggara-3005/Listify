@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "294649519719",
+    "firebase_url": "https://loginsignin-7d0f6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loginsignin-7d0f6",
+    "storage_bucket": "loginsignin-7d0f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294649519719:android:02f0b20164ff2d03b1fec2",
+        "android_client_info": {
+          "package_name": "com.example.listify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHrZX-LXeqQKYKN_-OSghUTtua8XgzBLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294649519719:android:89c081c57ea8c200b1fec2",
+        "android_client_info": {
+          "package_name": "com.example.listify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHrZX-LXeqQKYKN_-OSghUTtua8XgzBLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294649519719:android:89ce0daa91f8da27b1fec2",
+        "android_client_info": {
+          "package_name": "com.example.loginsignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHrZX-LXeqQKYKN_-OSghUTtua8XgzBLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
